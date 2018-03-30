@@ -1,0 +1,121 @@
+{
+  "basics": {
+    "name": "Lancen Daclison",
+    "label": "Student",
+    "picture": "https://lancenhd.github.io/images/lancenhd.png",
+    "email": "lancenhd@.edu",
+    "phone": "808-342-3669",
+    "website": "https://lancenhd.github.io",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "location": {
+      "address": "",
+      "postalCode": "96797",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "lancenhd",
+        "url": "http://github.com/lancenhd"
+      },
+      {
+        "network": "linkedin",
+        "username": "lancenhd",
+        "url": "http://www.linkedin.com/in/lancen-daclison-77955a124/"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Web Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Graphic Design",
+      "keywords": [
+      ]
+    },
+        {
+      "name": "Game Development",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Digital Drawing",
+      "keywords": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "Assembly",
+        "Lisp",
+        "Semantic UI",
+        "Meteor",
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "Windows 10",
+        "Ubuntu",
+        "Git/GitHub",
+        "PhotoShop", 
+        "Illustrator", 
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "studyType": "B.A.",
+      "startDate": "2015-01-12",
+      "endDate": "Present",
+      "gpa": "3.0",
+      "courses": [
+        "Algorithms", 
+        "Discrete Math", 
+        "Human Computer Interaction", 
+        "Object Oriented Programing", 
+        "Software Engineering"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "UH Manoa (New Student Orientation) ",
+      "position": "Web Designer",
+      "website": "",
+      "startDate": "2016-12-01",
+      "endDate": "Present",
+      "summary": "Manages New Student Orientation website and designs fliers",
+      "highlights": [
+        "Maintains and updates SLD websites. Uses adobe products to sketch and design graphics."
+          ]
+    }
+    ],
+ 
+  "references": [
+    {
+      "name": "Available upon request",
+      "reference": ""
+    }
+  ]
+}
